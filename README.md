@@ -1,8 +1,5 @@
-# Crypto Ecosystem Grants
+![Ecosystem Banner](https://user-images.githubusercontent.com/16810128/113798502-e744ff00-9718-11eb-83b9-6296b31236ef.jpg)
 Open community grants to help new and existing members to grow and build in the crypto ecosystem.
-
-![Ecosystem Banner](https://user-images.githubusercontent.com/16810128/113798380-ac42cb80-9718-11eb-96c5-79b80b90a174.jpg)
-
 
 ## Overview
 Whilst diving back into the crypto rabbit hole, I wanted to see what Crypto grants/programs are open for individuals/collectives to build on.
