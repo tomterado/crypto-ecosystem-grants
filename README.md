@@ -1,4 +1,4 @@
-![Ecosystem Banner](https://user-images.githubusercontent.com/16810128/113798502-e744ff00-9718-11eb-83b9-6296b31236ef.jpg)
+![grants](https://user-images.githubusercontent.com/16810128/113799579-f3ca5700-971a-11eb-81ca-6e339c7d577a.png)
 Open community grants to help new and existing members to grow and build in the crypto ecosystem.
 
 ## Overview
