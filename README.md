@@ -1,5 +1,8 @@
-# Crypto Grants
+# Crypto Ecosystem Grants
 Open community grants to help new and existing members to grow and build in the crypto ecosystem.
+
+![Ecosystem Banner](https://user-images.githubusercontent.com/16810128/113798380-ac42cb80-9718-11eb-96c5-79b80b90a174.jpg)
+
 
 ## Overview
 Whilst diving back into the crypto rabbit hole, I wanted to see what Crypto grants/programs are open for individuals/collectives to build on.
@@ -26,6 +29,7 @@ Feel free to submit PR's for new ecosystem links + fixes.
 - [Gnosis](https://github.com/gnosis/GECO)
 - [Stacks](https://github.com/stacksgov/Stacks-Grants)
 - [Decentralized Wireless Alliance](https://dewialliance.medium.com/launching-the-dewi-grant-program-9410310129bf)
+- [Kraken Exchange](https://www.kraken.com/en-us/features/grants)
 
 ## Past Grants | Challenges
 - [Aave](https://medium.com/aave/aave-ecosystem-grants-round-2-33e7ffed7933)
@@ -36,11 +40,13 @@ Feel free to submit PR's for new ecosystem links + fixes.
 - [Yearn.Finance](https://gov.yearn.finance/t/september-grants-announcement/7044)
 - [Terra](https://medium.com/terra-money/introducing-terra-ecosystem-grants-bd84b584e279)
 - [Synthetix](https://blog.synthetix.io/synthetix-grantsdao/)
-- [Compound ??](https://www.comp.xyz/t/compound-grants-program/1292/3)
+- [Compound ?](https://www.comp.xyz/t/compound-grants-program/1292/3)
 - [Consensys](https://www.consensys.net/grants)
 - [Square Crypto Grant](https://medium.com/@squarecrypto/square-crypto-grants-for-everybody-93d614f5fd0e#:~:text=We%20support%20bitcoin%20by%20building,grants%20to%20BTCPayServer%20and%20ZmnSCPxj.)
-- [Uniswap]
-- [Kyber]
+- [Unicef](https://www.unicef.org/innovation/applyBlockchainCrypto)
+- Uniswap
+- Kyber
+- ZCash
 - And many many other awesome projects & companies
 
 
